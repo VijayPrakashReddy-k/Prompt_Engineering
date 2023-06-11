@@ -1,0 +1,3 @@
+### LangChain (Language Chaining)
+
+LangChain is a Open source framework that simplifies the integration of large language models (LLMs) into applications, making them more accessible to developers. It has gained significant attention in the developer ecosystem and has secured substantial funding, with a valuation of $200 million. LangChain enables the creation of AI agents through command chaining and provides access to advanced LLMs from providers like Hugging Face. This framework is essential for developers looking to enhance their applications with powerful language processing capabilities.
